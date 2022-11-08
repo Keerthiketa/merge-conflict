@@ -10,6 +10,8 @@ Initial Security()
  //Sample Code
 }
 
-
+Initial Code()
+{	
+ //Sample Code
 
 }
