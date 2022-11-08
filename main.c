@@ -13,5 +13,10 @@ Initial Security()
 Initial Code()
 {	
  //Sample Code
+}
+
+Initial Code1()
+ //Sample Code
+}
 
 }
