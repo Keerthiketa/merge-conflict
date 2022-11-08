@@ -18,5 +18,8 @@ Initial Code()
 Initial Code1()
  //Sample Code
 }
+Initial Code2()
+//Sample Code
+}	
 
 }
